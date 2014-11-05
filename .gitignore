@@ -1,0 +1,8 @@
+# No incluir los archivos del Debug. Solo incluir el settings.xml
+/HardwareInfo/bin/Debug/HardwareInfo.exe
+/HardwareInfo/bin/Debug/HardwareInfo.exe.config
+/HardwareInfo/bin/Debug/HardwareInfo.pdb
+/HardwareInfo/bin/Debug/HardwareInfo.vshost.exe
+/HardwareInfo/bin/Debug/HardwareInfo.vshost.exe.config
+/HardwareInfo/bin/Debug/HardwareInfo.vshost.exe.manifest
+/HardwareInfo/obj/
